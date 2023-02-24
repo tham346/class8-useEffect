@@ -1,0 +1,17 @@
+.effectOne{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 50px;
+}
+.effect2Text{
+    display: flex;
+    font-size: 40px;
+    margin-bottom: 250px;
+    padding: 0%;
+    border: dashed; 
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 50px;
+}

@@ -1,0 +1,21 @@
+/* stylize carousel here */
+
+.leftArrow {
+    float: left;
+    margin-top: 24%; 
+    padding-left: 2%;
+}
+
+.rightArrow {
+    float: right;
+    margin-top: 24%; 
+    padding-right: 2%;
+}
+
+.carouselImage {
+    border: solid; 
+    border-color: var(--white);
+    border-style: dashed;
+    border-width: 6px;
+    padding-bottom: 1%;
+}

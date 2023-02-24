@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200;400;700&display=swap');
+
+* {
+  font-family: 'Inconsolata', monospace;
+}
+:root {
+  /* add colors to use on all the other pages */
+  --blue-violet: #460780;  
+  --white: #FFFF; 
+  --light-grey: #6a6767; 
+}
+
+body {
+  background-color: var(--blue-violet);
+}
+
+a {
+  text-decoration: none;
+  color: var(--white);
+  font-weight: 500;
+  font-size: 30px;
+}
+
